@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedGif", "AnimatedGif\AnimatedGif.csproj", "{18062888-C3DB-4453-B9CB-868F63D05C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18062888-C3DB-4453-B9CB-868F63D05C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18062888-C3DB-4453-B9CB-868F63D05C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18062888-C3DB-4453-B9CB-868F63D05C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18062888-C3DB-4453-B9CB-868F63D05C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AnimatedGif\AnimatedGif.csproj
+	EndGlobalSection
+EndGlobal
