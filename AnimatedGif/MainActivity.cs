@@ -1,6 +1,5 @@
 ﻿using System;
 using Android.App;
-using Android.Graphics.Drawables;
 using Android.Widget;
 using Android.OS;
 using Android.Views;
@@ -8,10 +7,7 @@ using Android.Graphics;
 using Android.Content;
 using Android.Util;
 using System.Threading.Tasks;
-using Android.Media;
 using System.IO;
-using System.Runtime.Remoting.Messaging;
-using System.Runtime.InteropServices;
 
 namespace AnimatedGif
 {
